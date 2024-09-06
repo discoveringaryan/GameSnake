@@ -21,3 +21,4 @@ public class DataOfSquare {
 		square.ChangeColor(C.get(c));
 	}
 }
+
