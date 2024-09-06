@@ -14,7 +14,7 @@
 ## ⚡ **CONTROLS**
 
 
-1. **📠 Download** the game’s core executable: `SnakeGame.jar`.
+1. **📠 Download** the game’s core executable: `GameSnake.jar`.
 2. **💥 Launch** the program—initiate sequence. 🖱️
 3. **📡 Control** the cyber-snake using these keys:
 
