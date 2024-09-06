@@ -1,31 +1,52 @@
-### The Snake
 
-A simple snake game in java .
-Using Threads and Java Swing to display the game.
-The code is well commented, if you have any questions or want to continue this project feel free to do so 👌
+```
+🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈
 
-### How it looks:
-![alt tag](https://i.imgur.com/RVxiGad.png)
+                 🎮 THE SUPER AMAZING SNAKE ADVENTURE 🎮
 
-### How you can support me:
-<a href="https://www.buymeacoffee.com/w9h0f8K" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈
 
-### How to run the project:
+         ___________    _____   __________ ____  __.___________
+        /   _____/   \  /  _  \ |   ____   |    |/ _|\_   _____/
+        \_____  \    \/  /_\  \|    __)|   |      <   |    __)_ 
+        /        \        \    \     \ |   |    |  \  |        \
+       /_______  /\__/\  /____  /__|  \|___|____|__ \/_______  /
+               \/      \/     \/                   \/        \/ 
 
-#### Requirements:
-* Java runtime installed
+🍎🍏🍊🍋🍌🍉🍇🍓🍒🍑🍍🥝🥭🍎🍏🍊🍋🍌🍉🍇🍓🍒🍑🍍🥝🥭🍎🍏🍊🍋🍌🍉🍇🍓🍒
 
-#### How to play the game:
 
-* Just download the SnakeGame.jar file
-* Run it 
-* Start playing with the arrows keys. 
-* If you lose, just close it and re-open it (I will add a restart button possibly)
+🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉
 
-### Mentions
-#### Blog Posts:
-- [hackr.io](https://hackr.io/blog/java-projects)
-- [NullClass](https://nullclass.com/free-java-projects-for-beginners-2021-with-source-code/)
+            🛠️ Prerequisite:
 
-#### Academia:
-- [NCU CSIE Taiwan Uni.](https://www.csie.ntu.edu.tw/~d00922011/java/304/java.html)
+    🌟 A cutting-edge Java Runtime Environment
+
+
+           🚀 HOW TO START YOUR AMAZING ADVENTURE 🚀
+
+    1️⃣ Find the magic file called "SnakeGame.jar" 🔍
+    2️⃣ Click it to open the super fun game world 🖱️
+    3️⃣ Use the special arrow keys to guide your snake 🐍➡️⬆️⬇️⬅️
+    4️⃣ Eat yummy food to grow big and strong 🍔🍕🍟
+    5️⃣ Don't bump into walls or your tail! 💥
+
+    If you lose, just try again! You're a SUPERSTAR! 🌟
+
+🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨
+
+           🏆 COOL THINGS ABOUT THIS GAME 🏆
+
+    🎨 Super colorful and fun to look at
+    🎵 Awesome music and sound effects
+    📊 See your high score and try to beat it
+    🔄 Play again and again - it's different every time!
+    🧠 Makes your brain super smart
+
+🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈
+
+     ARE YOU READY TO BE THE BEST SNAKE PLAYER EVER? LET'S GO!
+
+🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈
+```
+
