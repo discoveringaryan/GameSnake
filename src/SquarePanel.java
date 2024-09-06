@@ -16,3 +16,4 @@ public class SquarePanel extends JPanel{
 	
 }
 
+
