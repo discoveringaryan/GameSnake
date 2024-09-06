@@ -1,52 +1,44 @@
-
 ```
-🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈
+ ███████╗███╗   ██╗ █████╗ ██╗  ██╗███████╗
+ ██╔════╝████╗  ██║██╔══██╗██║ ██╔╝██╔════╝
+ ███████╗██╔██╗ ██║███████║█████╔╝ █████╗  
+ ╚════██║██║╚██╗██║██╔══██║██╔═██╗ ██╔══╝  
+ ███████║██║ ╚████║██║  ██║██║  ██║███████╗
+ ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-                 🎮 THE SUPER AMAZING SNAKE ADVENTURE 🎮
-
-🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈
-
-         ___________    _____   __________ ____  __.___________
-        /   _____/   \  /  _  \ |   ____   |    |/ _|\_   _____/
-        \_____  \    \/  /_\  \|    __)|   |      <   |    __)_ 
-        /        \        \    \     \ |   |    |  \  |        \
-       /_______  /\__/\  /____  /__|  \|___|____|__ \/_______  /
-               \/      \/     \/                   \/        \/ 
-
-🍎🍏🍊🍋🍌🍉🍇🍓🍒🍑🍍🥝🥭🍎🍏🍊🍋🍌🍉🍇🍓🍒🍑🍍🥝🥭🍎🍏🍊🍋🍌🍉🍇🍓🍒
 
 
 🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉
 
-            🛠️ Prerequisite:
-
-    🌟 A cutting-edge Java Runtime Environment
+## ⚡ **CONTROLS**
 
 
-           🚀 HOW TO START YOUR AMAZING ADVENTURE 🚀
+1. **📠 Download** the game’s core executable: `SnakeGame.jar`.
+2. **💥 Launch** the program—initiate sequence. 🖱️
+3. **📡 Control** the cyber-snake using these keys:
 
-    1️⃣ Find the magic file called "SnakeGame.jar" 🔍
-    2️⃣ Click it to open the super fun game world 🖱️
-    3️⃣ Use the special arrow keys to guide your snake 🐍➡️⬆️⬇️⬅️
-    4️⃣ Eat yummy food to grow big and strong 🍔🍕🍟
-    5️⃣ Don't bump into walls or your tail! 💥
+   ```
+   ▲ UP    ➡ Ascend in the data streams.
+   ▼ DOWN  ➡ Descend through the cyber layers.
+   ◀ LEFT  ➡ Shift left within the matrix.
+   ▶ RIGHT ➡ Slide right through the binary codes.
+   ```
 
-    If you lose, just try again! You're a SUPERSTAR! 🌟
+4. **🛑 WARNING!** Crash the snake? No worries. Simply reboot the mainframe by closing and reopening the game. A self-resetting protocol is currently in development. 🔄
 
-🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨🌟💫✨
+---
 
-           🏆 COOL THINGS ABOUT THIS GAME 🏆
+## 🔧 **SYSTEM REQUIREMENTS**
+Ensure your mainframe is equipped with the necessary software:
+
+- A system with **Java** installed. 💻
+
+
+## 🏆 COOL THINGS ABOUT THIS GAME 🏆
 
     🎨 Super colorful and fun to look at
     🎵 Awesome music and sound effects
     📊 See your high score and try to beat it
     🔄 Play again and again - it's different every time!
     🧠 Makes your brain super smart
-
-🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈
-
-     ARE YOU READY TO BE THE BEST SNAKE PLAYER EVER? LET'S GO!
-
-🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈🐍🌈
-```
-
