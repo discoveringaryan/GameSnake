@@ -55,3 +55,5 @@ class Window extends JFrame{
 		
 	}
 }
+
+
